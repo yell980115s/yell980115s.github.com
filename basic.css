@@ -1,0 +1,19 @@
+.time{
+	color: #52478B;
+}
+#b{
+	color: #eeeeee;
+}
+#heaven{
+	font-family: 'Nanum Brush Script', cursive;
+}
+#sorry{
+	font-family: 'Indie Flower', cursive;
+}
+#white{
+	color:#ffffff;
+}
+a:hover{
+	text-decoration: none;
+	color:#6495ED;
+}
